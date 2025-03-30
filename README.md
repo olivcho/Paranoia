@@ -1,4 +1,4 @@
-# paranoia 
+# Paranoia 
 
 A Python script for organizing and managing a "Paranoia" style game among students. This program reads a student directory, assigns targets randomly, and sends automated email notifications to participants.
 
